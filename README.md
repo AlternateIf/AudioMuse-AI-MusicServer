@@ -36,7 +36,7 @@ After deploying AudioMsue-AI-Music server it could be reached BOTH from this url
 
 The first login can be don with:
 * User: admin
-* passwoord: admin
+* password: admin
 
 The configuration needed is go in the admin tab and:
 * add the path of the song, and start the scanning, depending from the size of the library could takes several minutes. This is just to add the  song to the mediaserver
@@ -181,4 +181,5 @@ npm start
 Frontend will be reacheable on http://localhost:3000/ you can do the first login with admin/admin
 
 **IMPORTANT** as you can see, running the code OUT of the container, you had the front-end on the different port 3000
+
 
